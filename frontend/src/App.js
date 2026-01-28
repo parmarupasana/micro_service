@@ -164,7 +164,7 @@ function App() {
               <table className="table table-striped">
                 <thead>
                   <tr>
-                    <th>Name</th>
+                    <th>student Name</th>
                     <th>Email</th>
                     <th>Course</th>
                     <th>Actions</th>
